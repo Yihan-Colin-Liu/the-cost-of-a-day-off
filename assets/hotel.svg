@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+<rect width="900" height="620" fill="#ddd6c9"/>
+<rect x="100" y="75" width="700" height="470" fill="#f4f0e7"/>
+<rect x="130" y="110" width="280" height="435" fill="#d0c6b7"/>
+<rect x="490" y="110" width="280" height="435" fill="#e7e1d6"/>
+<path d="M450 110 V545" stroke="#b3a99b" stroke-width="5"/>
+<circle cx="350" cy="250" r="42" fill="#c99876"/>
+<path d="M305 320 Q350 285 395 320 L395 440 L305 440Z" fill="#6c756f"/>
+<rect x="415" y="335" width="160" height="65" rx="10" fill="#9c8e7d"/>
+<rect x="535" y="205" width="120" height="95" fill="#c6d0cd"/>
+<text x="125" y="510" font-family="monospace" font-size="22" fill="#5b554d">8:03 AM · HOTEL</text>
+</svg>

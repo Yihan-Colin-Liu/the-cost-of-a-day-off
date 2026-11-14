@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+<rect width="900" height="620" fill="#dcd5c8"/>
+<rect x="80" y="90" width="740" height="450" rx="14" fill="#f5f1e8"/>
+<rect x="120" y="320" width="470" height="130" rx="12" fill="#9c9a91"/>
+<rect x="140" y="290" width="160" height="75" rx="15" fill="#ddd7cc"/>
+<circle cx="430" cy="275" r="46" fill="#c99876"/>
+<path d="M380 350 Q430 305 480 350 L480 440 L380 440Z" fill="#777d76"/>
+<rect x="610" y="220" width="130" height="220" fill="#d2c6b6"/>
+<rect x="630" y="250" width="90" height="110" fill="#e8e2d8"/>
+<circle cx="675" cy="305" r="22" fill="#252525"/>
+<text x="125" y="500" font-family="monospace" font-size="22" fill="#5b554d">7:12 AM · BEDROOM</text>
+</svg>

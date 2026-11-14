@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+<rect width="900" height="620" fill="#d8d3c9"/>
+<rect x="100" y="100" width="700" height="400" rx="35" fill="#b8b1a6"/>
+<rect x="145" y="145" width="610" height="170" rx="12" fill="#dce3e0"/>
+<rect x="150" y="340" width="600" height="80" rx="18" fill="#8e8b84"/>
+<circle cx="270" cy="260" r="38" fill="#c99876"/>
+<path d="M230 330 Q270 300 310 330 L310 410 L230 410Z" fill="#59635f"/>
+<circle cx="620" cy="260" r="38" fill="#b98567"/>
+<path d="M580 330 Q620 300 660 330 L660 410 L580 410Z" fill="#81796e"/>
+<text x="130" y="470" font-family="monospace" font-size="22" fill="#5b554d">1:17 PM · BUS</text>
+</svg>

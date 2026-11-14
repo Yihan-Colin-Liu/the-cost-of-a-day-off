@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+<rect width="900" height="620" fill="#e5ded2"/>
+<rect x="70" y="70" width="760" height="470" rx="14" fill="#f8f4ec"/>
+<rect x="170" y="310" width="530" height="120" rx="12" fill="#b5ab9d"/>
+<rect x="250" y="210" width="350" height="90" fill="#ece6dc"/>
+<circle cx="420" cy="250" r="35" fill="#c99876"/>
+<path d="M380 305 Q420 275 460 305 L460 405 L380 405Z" fill="#66736c"/>
+<rect x="520" y="250" width="120" height="75" fill="#d0c6b7"/>
+<line x1="540" y1="270" x2="620" y2="270" stroke="#777" stroke-width="4"/>
+<line x1="540" y1="290" x2="620" y2="290" stroke="#777" stroke-width="4"/>
+<text x="95" y="505" font-family="monospace" font-size="22" fill="#5b554d">5:16 PM · HOME</text>
+</svg>

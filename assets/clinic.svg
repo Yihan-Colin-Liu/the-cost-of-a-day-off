@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+<rect width="900" height="620" fill="#dce4df"/>
+<rect x="75" y="75" width="750" height="470" rx="12" fill="#f7f7f2"/>
+<rect x="115" y="125" width="210" height="290" fill="#e1e6e2"/>
+<rect x="160" y="175" width="120" height="70" fill="#c4d1cc"/>
+<path d="M220 185 v50 M195 210 h50" stroke="#b83b2f" stroke-width="16"/>
+<circle cx="520" cy="235" r="42" fill="#bd8d6d"/>
+<path d="M470 305 Q520 270 570 305 L570 440 L470 440Z" fill="#5d706a"/>
+<circle cx="690" cy="250" r="42" fill="#c99876"/>
+<path d="M640 320 Q690 285 740 320 L740 440 L640 440Z" fill="#8b796d"/>
+<rect x="485" y="395" width="260" height="45" fill="#b8afa2"/>
+<text x="115" y="500" font-family="monospace" font-size="22" fill="#5b554d">2:04 PM · COMMUNITY CLINIC</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+<rect width="900" height="620" fill="#e0d8cb"/>
+<rect x="90" y="90" width="720" height="430" fill="#f4f0e7"/>
+<rect x="120" y="350" width="660" height="110" fill="#9d9589"/>
+<circle cx="310" cy="315" r="55" fill="#c9a27c"/>
+<circle cx="420" cy="320" r="45" fill="#c76b4c"/>
+<ellipse cx="540" cy="315" rx="65" ry="40" fill="#d7bd72"/>
+<rect x="635" y="245" width="110" height="85" rx="6" fill="#2b2b29"/>
+<rect x="650" y="260" width="80" height="55" fill="#eee9df"/>
+<text x="665" y="300" font-family="monospace" font-size="18" fill="#333">$96</text>
+<text x="125" y="500" font-family="monospace" font-size="22" fill="#5b554d">FRIDAY · KITCHEN</text>
+</svg>
